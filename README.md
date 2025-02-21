@@ -22,7 +22,7 @@ Amigo Secreto es una aplicación sencilla que permite a los usuarios ingresar no
 1. Clona el repositorio en tu equipo:
 ``` git clone [https://github.com/CarolinaAraneda/Challenge-Amigo-Secreto]```
 2. Accede al directorio del proyecto:
-``` cd amigo-secreto  ```
+``` cd Challenge-Amigo-Secreto  ```
 3. Abre el archivo ``` index.html ``` en un navegador web.
 
 ## Licencia
